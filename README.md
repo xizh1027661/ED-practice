@@ -186,3 +186,4 @@ So, create a new file in the `pages/` folder called `one-hundred-and-one-damatia
 Use the service created in the `5` to fetch the movie information. The id of this movie is 'tt0055254'. In order to apply the styles, you can use the `css/global.css` file.
 > Hint:
 > You can use flex box or grid in order to acomplish this view
+ED-practice_xiangqian
